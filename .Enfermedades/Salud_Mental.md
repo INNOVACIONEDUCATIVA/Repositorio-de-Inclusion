@@ -14,4 +14,10 @@ La depresión puede afectar la motivación y la capacidad para completar tareas.
 - Flexibilidad en los plazos de entrega.
 - Permitir la asistencia a clases en línea en momentos de crisis.
 
+### Trastorno obsesivo-compulsivo
+**Estrategias de apoyo**:
+
+### Trastorno por déficit de atención
+**Estrategias de apoyo**:
+
 **[⬆ Regresar al inicio](/README.md)**
