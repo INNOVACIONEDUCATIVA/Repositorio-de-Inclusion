@@ -13,3 +13,5 @@ La depresión puede afectar la motivación y la capacidad para completar tareas.
 **Estrategias de apoyo**:
 - Flexibilidad en los plazos de entrega.
 - Permitir la asistencia a clases en línea en momentos de crisis.
+
+**[⬆ Regresar al inicio](/README.md)**
