@@ -14,4 +14,10 @@ Convulsiones impredecibles pueden afectar la asistencia y el rendimiento.
 - Crear un plan de emergencia en caso de convulsiones.
 - Evitar estímulos visuales intensos como luces brillantes.
 
+### Sindrome de Asperger
+**Estrategias de apoyo**:
+
+### Autismo
+**Estrategias de apoyo**:
+
 **[⬆ Regresar al inicio](/README.md)**
