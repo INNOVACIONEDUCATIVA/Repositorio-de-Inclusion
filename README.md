@@ -5,6 +5,6 @@
 Este repositorio ofrece recursos y estrategias para apoyar a los estudiantes de la UPIICSA con enfermedades físicas, neurológicas y trastornos de salud mental. El objetivo es fomentar un entorno inclusivo y accesible en la UPIICSA.
 
 ## Estructura del repositorio:
-- **[Enfermedades Físicas](enfermedades/fisicas)**: Información sobre cómo estas condiciones afectan el aprendizaje y estrategias adaptativas.
-- **[Enfermedades Neurológicas](enfermedades/neurologicas/)**: Incluye cómo la esclerosis múltiple, el autismo, entre otros, impactan a los estudiantes.
-- **[Trastornos de Salud Mental](enfermedades/salud_mental/)**: Aborda condiciones como la ansiedad y la depresión, con recomendaciones para crear un entorno más inclusivo.
+- **[Enfermedades Físicas](./Enfermedades_Físicas/README.md)**: Información sobre cómo estas condiciones afectan el aprendizaje y estrategias adaptativas.
+- **[Enfermedades Neurológicas](./Enfermedades_Neurológicas/README.md)**: Incluye cómo la esclerosis múltiple, el autismo, entre otros, impactan a los estudiantes.
+- **[Trastornos de Salud Mental](./Trastornos_Salud_Mental/README.md)**: Aborda condiciones como la ansiedad y la depresión, con recomendaciones para crear un entorno más inclusivo.
