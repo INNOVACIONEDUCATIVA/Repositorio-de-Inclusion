@@ -13,3 +13,5 @@ Convulsiones impredecibles pueden afectar la asistencia y el rendimiento.
 **Estrategias de apoyo**:
 - Crear un plan de emergencia en caso de convulsiones.
 - Evitar estímulos visuales intensos como luces brillantes.
+
+**[⬆ Regresar al inicio](/README.md)**
