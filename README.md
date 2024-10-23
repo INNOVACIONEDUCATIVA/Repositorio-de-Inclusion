@@ -10,7 +10,7 @@ Este repositorio está dedicado a promover la **inclusión** y concientizar sobr
 - Recursos para estudiantes, profesores y personal administrativo que buscan mejorar la accesibilidad y las políticas de inclusión en el entorno académico.
 - Buenas prácticas para garantizar la equidad y el bienestar de toda la comunidad, promoviendo la creación de una UPIICSA más **inclusiva y accesible**.
 
-### ¿Por qué es importante?
+## ¿Por qué es importante?
 
 La diversidad en las capacidades físicas y mentales es una realidad que afecta a una parte significativa de la población estudiantil y académica. Fomentar un ambiente inclusivo no solo mejora la calidad de vida de quienes enfrentan estos retos, sino que también enriquece a la comunidad universitaria en su conjunto, promoviendo la diversidad de ideas y experiencias.
 
