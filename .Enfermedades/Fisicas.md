@@ -13,3 +13,5 @@ Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa dura
 **Estrategias de apoyo**:
 - Permitir descansos para monitorear niveles de glucosa.
 - Flexibilidad con los plazos de entrega en días de consulta médica.
+
+**[⬆ Regresar al inicio](#README.md)**
