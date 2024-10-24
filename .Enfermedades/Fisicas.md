@@ -8,7 +8,7 @@ El asma puede afectar la respiración, lo que puede dificultar la concentración
 - Ofrecer descansos regulares durante actividades físicas.
 
 <p align="center">
- <img width="368" alt="Captura de pantalla 2024-10-23 a la(s) 21 04 26" src="https://github.com/user-attachments/assets/f94ccf39-017a-4401-9122-543824de4f6a">
+<img width="301" alt="Asma" src="https://github.com/user-attachments/assets/89fe5e7e-626e-4c6b-9599-e4fb44e646cb">
 </p>
 
 ### Diabetes 
@@ -19,7 +19,7 @@ Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa dura
 - Flexibilidad con los plazos de entrega en días de consulta médica.
 
 <p align="center">
-<img width="386" alt="Captura de pantalla 2024-10-23 a la(s) 21 10 48" src="https://github.com/user-attachments/assets/0adf2a60-ca11-46c2-aa96-9c38ffdc470b">
+<img width="336" alt="Diabetes" src="https://github.com/user-attachments/assets/8b15fc64-4794-424e-b0e0-21eee154b155">
 </p>
 
 ### Cánceres
