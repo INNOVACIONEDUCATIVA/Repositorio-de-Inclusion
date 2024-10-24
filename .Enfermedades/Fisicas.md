@@ -1,6 +1,6 @@
 # Enfermedades Físicas
 
-<img width="1141" alt="Enfermedades Fisicas" src="https://github.com/user-attachments/assets/7ea75a68-878a-4dbb-b06e-90d7a4b5e0f7">
+<img width="859" alt="Logo UPIICSA IPN Inclusion" src="https://github.com/user-attachments/assets/1efbd3ad-8ad3-43d1-a2be-267342173b94">
 
 ### Asma
 El asma puede afectar la respiración, lo que puede dificultar la concentración y la participación en actividades físicas.
