@@ -25,6 +25,10 @@ Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa dura
 ### Cánceres
 **Estrategias de apoyo**:
 
+<p align="center">
+<img width="295" alt="Cancer" src="https://github.com/user-attachments/assets/599edc1c-5b04-414f-91d4-263b4e2a09d9">
+</p>
+
 ### Hipoacusia
 **Estrategias de apoyo**:
 
