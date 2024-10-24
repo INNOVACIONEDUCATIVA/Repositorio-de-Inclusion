@@ -32,4 +32,8 @@ Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa dura
 ### Hipoacusia
 **Estrategias de apoyo**:
 
+<p align="center">
+<img width="265" alt="Hipoacusia" src="https://github.com/user-attachments/assets/c22fe945-d320-4b8f-8925-e69aca8e0baf">
+</p>
+
 **[⬆ Regresar al inicio](/README.md)**
