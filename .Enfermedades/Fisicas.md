@@ -5,9 +5,7 @@ El asma es una enfermedad respiratoria crónica que afecta las vías respiratori
 
 **Estrategias de aprendizaje**:
 - Permitir que los estudiantes puedan ausentarse sin penalización si experimentan síntomas graves de asma.
-- Proporcionar materiales de clase en formato digital para que los estudiantes puedan acceder a ellos desde casa.
 - Mantener el salón libre de polvo, olores fuertes y otros factores que puedan desencadenar ataques de asma.
-- Ofrecer opciones con fechas flexibles para exámenes y entregas de tareas, ajustadas a la condición del estudiante.
 - Permitir el uso de inhaladores u otros medicamentos durante clases y exámenes, sin restricciones.
 
 <p align="center">
@@ -15,11 +13,14 @@ El asma es una enfermedad respiratoria crónica que afecta las vías respiratori
 </p>
 
 ### Diabetes 
-Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa durante la clase.
+La diabetes es una enfermedad crónica que se caracteriza por niveles altos de glucosa (azúcar) en la sangre. Se clasifica principalmente en dos tipos:
+- **Diabetes tipo 1**: Es una condición autoinmune donde el páncreas no produce insulina, la hormona necesaria para regular el azúcar en la sangre. Generalmente se diagnostica en niños y jóvenes, aunque puede aparecer a cualquier edad.
+- **Diabetes tipo 2**: Es más común y suele desarrollarse en adultos. En este caso, el cuerpo no utiliza la insulina de manera efectiva (resistencia a la insulina) o no produce suficiente insulina. Está asociada con factores como la obesidad, la falta de actividad física y la genética.
 
 **Estrategias de aprendizaje**:
-- Permitir descansos para monitorear niveles de glucosa. 
-- Flexibilidad con los plazos de entrega en días de consulta médica.
+- Permitir a los estudiantes ajustar sus horarios de clases y entregas si necesitan atención médica o tiempo para manejar su condición.
+- Facilitar pausas breves durante la clase para que los estudiantes puedan medir sus niveles de glucosa o comer algo si es necesario.
+- Proveer recursos digitales para que los estudiantes puedan acceder fácilmente a la información si se ausentan por motivos de salud.
 
 <p align="center">
 <img width="336" alt="Diabetes" src="https://github.com/user-attachments/assets/8b15fc64-4794-424e-b0e0-21eee154b155">
