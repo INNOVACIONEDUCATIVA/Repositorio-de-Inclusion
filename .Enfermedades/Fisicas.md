@@ -41,7 +41,16 @@ El cáncer es un término general que abarca un grupo de más de 100 enfermedade
 </p>
 
 ## Hipoacusia
+La hipoacusia es un término médico que se refiere a la disminución de la capacidad auditiva, lo que significa que una persona tiene dificultad para escuchar sonidos en comparación con lo que se considera normal. Esta condición puede afectar uno o ambos oídos y puede ser temporal o permanente. La gravedad de la hipoacusia se mide en decibelios (dB), y se clasifica generalmente en cuatro niveles:
+- **Leve**: Pérdida auditiva de 20 a 40 dB.
+- **Moderada**: Pérdida auditiva de 41 a 70 dB. 
+- **Severa**: Pérdida auditiva de 71 a 90 dB. 
+- **Profunda**: Pérdida auditiva superior a 90 dB. 
+
 **Estrategias de aprendizaje**:
+- Proporcionar materiales de lectura, videos con subtítulos y presentaciones visuales que incluyan gráficos y diagramas.
+- Usar gestos, expresiones faciales y recursos visuales para complementar la comunicación verbal.
+-  Establecer un ambiente donde los estudiantes se sientan cómodos haciendo preguntas y participando en discusiones
 
 <p align="center">
 <img width="265" alt="Hipoacusia" src="https://github.com/user-attachments/assets/c22fe945-d320-4b8f-8925-e69aca8e0baf">
