@@ -12,20 +12,6 @@ El asma es una enfermedad respiratoria crónica que afecta las vías respiratori
 <img width="301" alt="Asma" src="https://github.com/user-attachments/assets/89fe5e7e-626e-4c6b-9599-e4fb44e646cb">
 </p>
 
-## Diabetes 
-La diabetes es una enfermedad crónica que se caracteriza por niveles altos de glucosa (azúcar) en la sangre. Se clasifica principalmente en dos tipos:
-- **Diabetes tipo 1**: Es una condición autoinmune donde el páncreas no produce insulina, la hormona necesaria para regular el azúcar en la sangre. Generalmente se diagnostica en niños y jóvenes, aunque puede aparecer a cualquier edad.
-- **Diabetes tipo 2**: Es más común y suele desarrollarse en adultos. En este caso, el cuerpo no utiliza la insulina de manera efectiva (resistencia a la insulina) o no produce suficiente insulina. Está asociada con factores como la obesidad, la falta de actividad física y la genética.
-
-**Estrategias de aprendizaje**:
-- Permitir a los estudiantes ajustar sus horarios de clases y entregas si necesitan atención médica o tiempo para manejar su condición.
-- Facilitar pausas breves durante la clase para que los estudiantes puedan medir sus niveles de glucosa o comer algo si es necesario.
-- Proveer recursos digitales para que los estudiantes puedan acceder fácilmente a la información si se ausentan por motivos de salud.
-
-<p align="center">
-<img width="336" alt="Diabetes" src="https://github.com/user-attachments/assets/8b15fc64-4794-424e-b0e0-21eee154b155">
-</p>
-
 ## Cáncer
 El cáncer es un término general que abarca un grupo de más de 100 enfermedades diferentes, caracterizadas por el crecimiento descontrolado de células anormales en el cuerpo. Estas células cancerosas pueden invadir y destruir tejidos y órganos sanos, lo que compromete el funcionamiento normal del organismo. El cáncer puede surgir en cualquier parte del cuerpo, y se clasifica generalmente en dos categorías principales:
 - **Cáncer Sólido**: Afecta a órganos o tejidos (por ejemplo, cáncer de mama, cáncer de pulmón).
@@ -38,6 +24,20 @@ El cáncer es un término general que abarca un grupo de más de 100 enfermedade
 
 <p align="center">
 <img width="295" alt="Cancer" src="https://github.com/user-attachments/assets/599edc1c-5b04-414f-91d4-263b4e2a09d9">
+</p>
+
+## Diabetes 
+La diabetes es una enfermedad crónica que se caracteriza por niveles altos de glucosa (azúcar) en la sangre. Se clasifica principalmente en dos tipos:
+- **Diabetes tipo 1**: Es una condición autoinmune donde el páncreas no produce insulina, la hormona necesaria para regular el azúcar en la sangre. Generalmente se diagnostica en niños y jóvenes, aunque puede aparecer a cualquier edad.
+- **Diabetes tipo 2**: Es más común y suele desarrollarse en adultos. En este caso, el cuerpo no utiliza la insulina de manera efectiva (resistencia a la insulina) o no produce suficiente insulina. Está asociada con factores como la obesidad, la falta de actividad física y la genética.
+
+**Estrategias de aprendizaje**:
+- Permitir a los estudiantes ajustar sus horarios de clases y entregas si necesitan atención médica o tiempo para manejar su condición.
+- Facilitar pausas breves durante la clase para que los estudiantes puedan medir sus niveles de glucosa o comer algo si es necesario.
+- Proveer recursos digitales para que los estudiantes puedan acceder fácilmente a la información si se ausentan por motivos de salud.
+
+<p align="center">
+<img width="336" alt="Diabetes" src="https://github.com/user-attachments/assets/8b15fc64-4794-424e-b0e0-21eee154b155">
 </p>
 
 ## Hipoacusia
