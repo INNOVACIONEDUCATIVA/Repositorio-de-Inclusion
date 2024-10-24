@@ -27,7 +27,14 @@ La diabetes es una enfermedad crónica que se caracteriza por niveles altos de g
 </p>
 
 ### Cánceres
+El cáncer es un término general que abarca un grupo de más de 100 enfermedades diferentes, caracterizadas por el crecimiento descontrolado de células anormales en el cuerpo. Estas células cancerosas pueden invadir y destruir tejidos y órganos sanos, lo que compromete el funcionamiento normal del organismo. El cáncer puede surgir en cualquier parte del cuerpo, y se clasifica generalmente en dos categorías principales:
+- **Cáncer Sólido**: Afecta a órganos o tejidos (por ejemplo, cáncer de mama, cáncer de pulmón).
+- **Cáncer de Sangre**: Afecta a las células sanguíneas (por ejemplo, leucemia, linfoma).
+
 **Estrategias de aprendizaje**:
+- Ofrecer opciones de evaluación alternativas, como proyectos o presentaciones en lugar de exámenes, para adaptarse a las limitaciones físicas y emocionales del estudiante.
+- Proporcionar materiales de estudio en línea que los estudiantes puedan acceder en cualquier momento, permitiéndoles aprender a su propio ritmo.
+- Trabajar con el estudiante para crear un plan de estudios adaptado a sus necesidades, considerando su estado de salud y los tratamientos médicos.
 
 <p align="center">
 <img width="295" alt="Cancer" src="https://github.com/user-attachments/assets/599edc1c-5b04-414f-91d4-263b4e2a09d9">
