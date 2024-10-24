@@ -1,7 +1,7 @@
 # Enfermedades Físicas
 
 ### Asma
-El asma puede afectar la respiración, lo que puede dificultar la concentración y la participación en actividades físicas.
+El asma es una enfermedad respiratoria crónica que afecta las vías respiratorias en los pulmones, causando dificultad para respirar, tos, sibilancias (un sonido silbante al exhalar) y opresión en el pecho. Se desencadena por diferentes factores como alérgenos, ejercicio, infecciones respiratorias, o irritantes como el humo. El tratamiento se enfoca en el manejo de los síntomas mediante inhaladores y, en algunos casos, medicamentos de control a largo plazo.
 
 **Estrategias de aprendizaje**:
 - Proporcionar un entorno con buena ventilación.
