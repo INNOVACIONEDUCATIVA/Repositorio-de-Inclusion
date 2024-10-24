@@ -1,13 +1,15 @@
 # Enfermedades Físicas
 
-<img width="859" alt="Logo UPIICSA IPN Inclusion" src="https://github.com/user-attachments/assets/1efbd3ad-8ad3-43d1-a2be-267342173b94">
-
 ### Asma
 El asma puede afectar la respiración, lo que puede dificultar la concentración y la participación en actividades físicas.
 
 **Estrategias de apoyo**:
 - Proporcionar un entorno con buena ventilación.
 - Ofrecer descansos regulares durante actividades físicas.
+
+<p align="center">
+ <img width="368" alt="Captura de pantalla 2024-10-23 a la(s) 21 04 26" src="https://github.com/user-attachments/assets/f94ccf39-017a-4401-9122-543824de4f6a">
+</p>
 
 ### Diabetes 
 Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa durante la clase.
