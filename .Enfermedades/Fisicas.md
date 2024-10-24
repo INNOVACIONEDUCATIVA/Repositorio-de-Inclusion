@@ -3,7 +3,7 @@
 ### Asma
 El asma puede afectar la respiración, lo que puede dificultar la concentración y la participación en actividades físicas.
 
-**Estrategias de apoyo**:
+**Estrategias de aprendizaje**:
 - Proporcionar un entorno con buena ventilación.
 - Ofrecer descansos regulares durante actividades físicas.
 
@@ -14,7 +14,7 @@ El asma puede afectar la respiración, lo que puede dificultar la concentración
 ### Diabetes 
 Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa durante la clase.
 
-**Estrategias de apoyo**: 
+**Estrategias de aprendizaje**:
 - Permitir descansos para monitorear niveles de glucosa. 
 - Flexibilidad con los plazos de entrega en días de consulta médica.
 
@@ -23,14 +23,14 @@ Los estudiantes con diabetes pueden necesitar controlar su nivel de glucosa dura
 </p>
 
 ### Cánceres
-**Estrategias de apoyo**:
+**Estrategias de aprendizaje**:
 
 <p align="center">
 <img width="295" alt="Cancer" src="https://github.com/user-attachments/assets/599edc1c-5b04-414f-91d4-263b4e2a09d9">
 </p>
 
 ### Hipoacusia
-**Estrategias de apoyo**:
+**Estrategias de aprendizaje**:
 
 <p align="center">
 <img width="265" alt="Hipoacusia" src="https://github.com/user-attachments/assets/c22fe945-d320-4b8f-8925-e69aca8e0baf">
