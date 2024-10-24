@@ -1,5 +1,7 @@
 # Enfermedades Físicas
 
+<img width="263" alt="Captura de pantalla 2024-10-23 a la(s) 20 51 01" src="https://github.com/user-attachments/assets/e6f119c8-5ba0-4a47-95d0-8eb2d9ca3e5a">
+
 ### Asma
 El asma puede afectar la respiración, lo que puede dificultar la concentración y la participación en actividades físicas.
 
