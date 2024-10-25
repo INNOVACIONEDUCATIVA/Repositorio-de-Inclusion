@@ -27,3 +27,5 @@ Descripción de las Enfermedades, su Impacto en los Estudiantes y Estrategias de
 ## Video: Cápsula de inclusión
 
 [![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
+
+## Recursos
