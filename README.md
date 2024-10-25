@@ -6,7 +6,7 @@ Este repositorio está dedicado a promover la **inclusión** y concientizar sobr
   
 ## ¿Qué encontrarás aquí?
 
-- Información detallada sobre distintas condiciones de salud, incluyendo **enfermedades físicas**, **trastornos mentales** y **padecimientos crónicos**.
+- Información detallada sobre las distintas condiciones de salud que existen en la UPIICSA, incluyendo **enfermedades físicas**, **trastornos mentales** y **padecimientos crónicos**.
 - Recursos para estudiantes, profesores y personal administrativo que buscan mejorar la accesibilidad y las políticas de inclusión en el entorno académico.
 - Buenas prácticas para garantizar la equidad y el bienestar de toda la comunidad, promoviendo la creación de una UPIICSA más **inclusiva y accesible**.
 
