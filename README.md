@@ -16,27 +16,14 @@ La diversidad en las capacidades físicas y mentales es una realidad que afecta 
 
 Con este repositorio, esperamos contribuir a una mayor **conciencia social**, eliminar barreras y asegurar que todos tengan las mismas oportunidades para desarrollar su potencial académico y personal.
 
-## Estructura del repositorio:
+## Contenido del repositorio:
 
 Descripción de las Enfermedades, su Impacto en los Estudiantes y Estrategias de Apoyo.
 
-- **[Enfermedades Físicas](.Enfermedades/Fisicas.md)**:
-    - Asma
-    - Diabetes
-    - Cáncer
-    - Hipoacusia
-  
-- **[Enfermedades Neurológicas](.Enfermedades/Neurologicas.md)**:
-    - Autismo
-    - Epilepsia
-    - Esclerosis Múltiple
-    - Sindrome de Asperger
-    
-- **[Trastornos de Salud Mental](.Enfermedades/Salud_Mental.md)**: 
-    - Ansiedad
-    - Depresión
-    - Trastorno Obesesivo - Compulsivo
-    - Trastorno por Défict de Atención
+- **[Enfermedades Físicas](.Enfermedades/Fisicas.md)**
+- **[Enfermedades Neurológicas](.Enfermedades/Neurologicas.md)**   
+- **[Trastornos de Salud Mental](.Enfermedades/Salud_Mental.md)**
+
 ## Video: Cápsula de inclusión
 
 [![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
