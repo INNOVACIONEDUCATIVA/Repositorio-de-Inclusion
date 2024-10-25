@@ -4,8 +4,6 @@
 
 Este repositorio está dedicado a promover la **inclusión** y concientizar sobre los diferentes **tipos de enfermedades, padecimientos y trastornos** que afectan a la UPIICSA. Nuestro objetivo es crear un espacio educativo y de apoyo, fomentando una cultura de **respeto, empatía y comprensión** hacia todos los miembros de la UPIICSA, independientemente de sus circunstancias de salud.
   
-[![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
-
 ## ¿Qué encontrarás aquí?
 
 - Información detallada sobre distintas condiciones de salud, incluyendo **enfermedades físicas**, **trastornos mentales** y **padecimientos crónicos**.
@@ -22,3 +20,5 @@ Con este repositorio, esperamos contribuir a una mayor **conciencia social**, el
 - **[Enfermedades Físicas](.Enfermedades/Fisicas.md)**: Información sobre cómo estas condiciones afectan el aprendizaje y estrategias adaptativas.
 - **[Enfermedades Neurológicas](.Enfermedades/Neurologicas.md)**: Incluye cómo la esclerosis múltiple, el autismo, entre otros, impactan a los estudiantes.
 - **[Trastornos de Salud Mental](.Enfermedades/Salud_Mental.md)**: Aborda condiciones como la ansiedad y la depresión, con recomendaciones para crear un entorno más inclusivo.
+
+[![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
