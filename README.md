@@ -18,7 +18,7 @@ Con este repositorio, esperamos contribuir a una mayor **conciencia social**, el
 
 ## Contenido del repositorio:
 
-Descripción de las Enfermedades, su Impacto en los Estudiantes y Estrategias de Apoyo.
+Descripción de las enfermedades, su impacto en los estudiantes, estrategias de apoyo y recursos.
 
 - **[Enfermedades Físicas](.Enfermedades/Fisicas.md)**
 - **[Enfermedades Neurológicas](.Enfermedades/Neurologicas.md)**   
