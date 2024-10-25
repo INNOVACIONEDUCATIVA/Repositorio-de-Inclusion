@@ -3,9 +3,8 @@
 <img width="859" alt="Logo UPIICSA IPN Inclusion" src="https://github.com/user-attachments/assets/1efbd3ad-8ad3-43d1-a2be-267342173b94">
 
 Este repositorio está dedicado a promover la **inclusión** y concientizar sobre los diferentes **tipos de enfermedades, padecimientos y trastornos** que afectan a la UPIICSA. Nuestro objetivo es crear un espacio educativo y de apoyo, fomentando una cultura de **respeto, empatía y comprensión** hacia todos los miembros de la UPIICSA, independientemente de sus circunstancias de salud.
-
+  
 [![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
-
 
 ## ¿Qué encontrarás aquí?
 
