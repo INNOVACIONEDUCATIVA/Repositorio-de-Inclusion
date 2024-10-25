@@ -12,6 +12,11 @@ El autismo puede afectar a los estudiantes en la comunicación, la interacción 
 -  Evitar el ruido excesivo y las distracciones en el aula, ya que los estudiantes con autismo pueden ser sensibles a los estímulos sensoriales.
 -  Permitir adaptaciones como tiempo extra en exámenes o formatos alternativos para presentar el conocimiento (por ejemplo, trabajos escritos en lugar de exposiciones orales).
 
+**Recuros**
+- **[Autismo](https://www.who.int/es/news-room/fact-sheets/detail/autism-spectrum-disorders)**
+- **[Estrategias de enseñanza](https://www.unicef.org/dominicanrepublic/media/7991/file/Estrategias%20de%20Ensenanza%20Aprendizaje%20%7C%20Trastorno%20del%20Espectro%20Autista%20-%20PUBLICACION.pdf)**
+- **[Manual de buenas prácticas para apoyar a los estudiantes de educación superior con TEA](https://www.uam.es/uam/media/doc/1606894726443/autismuni-guia3.pdf)**
+
 <p align="center">
 <img width="339" alt="Autismo" src="https://github.com/user-attachments/assets/562cc391-9bb6-4c65-afc7-99802554f0af">
 </p>
@@ -27,6 +32,10 @@ La epilepsia puede afectar a los estudiantes al interferir con su asistencia a c
 - Informar a los compañeros de clase y al personal sobre cómo actuar en caso de una crisis, creando un ambiente inclusivo y seguro.
 - Ofrecer exámenes en un formato flexible, como dividir evaluaciones largas en partes más cortas o permitir descansos durante las pruebas.
 - Permitir tiempos de entrega más largos o alternativas para exámenes si un estudiante tiene una crisis o necesita tiempo para recuperar
+
+**Recuros**
+- **[Epilepsia](https://www.who.int/es/news-room/fact-sheets/detail/epilepsy)**
+- **[Guía de intervención en el aula para alumnos con epilepsia](http://www.sindromedewest.org/PDF/LIBROS/Gu%C3%ADa.pdf)**
 
 <p align="center">
 <img width="269" alt="Epilpesia" src="https://github.com/user-attachments/assets/f7049eb3-a464-470a-9485-a92dfc045059">
@@ -44,6 +53,10 @@ La esclerosis múltiple (EM) puede afectar a los estudiantes al dificultar su as
 - Proporcionar apuntes, presentaciones y materiales de lectura en formato digital para facilitar el acceso desde casa o en momentos de menor movilidad.
 - Fomentar una comunicación abierta para que el estudiante pueda expresar sus necesidades y retos, asegurando un entorno de apoyo sin presiones.
 
+**Recursos**
+- **[Esclerosis Múltiple](https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis)**
+- **[El rendimiento y dificultades académica de estudiantes con esclerosis múltiple](http://200.23.113.51/pdf/28951.pdf)**
+
 <p align="center">
 <img width="227" alt="Esclerosis multiple" src="https://github.com/user-attachments/assets/85fbe864-071d-47b6-b6a5-95c825666498">
 </p>
@@ -58,6 +71,10 @@ El síndrome de Asperger puede afectar a los estudiantes en su interacción soci
 -  Mantener una rutina constante en la clase con instrucciones claras. Evitar cambios repentinos de horarios o actividades.
 -  Dividir tareas grandes en pasos más pequeños y manejables, facilitando que el estudiante las complete sin sentirse abrumado.
 -  Complementar la enseñanza verbal con materiales visuales como esquemas, gráficos y presentaciones. Las ayudas visuales facilitan la comprensión de conceptos.
+
+**Recursos**
+- **[Sindrome de Asperger](https://autismo.org.es/actualidad/noticias/sindrome-asperger/)**
+- **[Estrategias educativas para orientar las necesidades educativas de los estudiantes con Síndrome de Asperger](https://www.descubreme.cl/wp-content/uploads/2019/04/Estrategias-Educativas-Estudiantes-con-Asperger-pdf.pdf)**
 
 <p align="center">
 <img width="277" alt="Asperger" src="https://github.com/user-attachments/assets/4ab389af-63bb-40ab-8f99-fd1bc86c8862">
