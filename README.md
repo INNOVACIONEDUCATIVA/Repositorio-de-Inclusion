@@ -29,3 +29,5 @@ Descripción de las Enfermedades, su Impacto en los Estudiantes y Estrategias de
 [![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
 
 ## Recursos
+
+- [IPN. La inclusion de los estudiantes con discapacidad.](https://www.ipn.mx/assets/files/innovacion/docs/Innovacion-Educativa-79/La-inclusion-de-los-estudiantes-con-discapacidad-en-dos-universidades.pdf)
