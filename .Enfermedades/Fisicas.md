@@ -12,6 +12,9 @@ El asma puede afectar a los estudiantes al interferir con su rendimiento académ
 - Mantener el salón libre de polvo, olores fuertes y otros factores que puedan desencadenar ataques de asma.
 - Permitir el uso de inhaladores u otros medicamentos durante clases y exámenes, sin restricciones.
 
+**Recursos**
+- [Asma - Síntomas y causas](https://www.mayoclinic.org/es/diseases-conditions/asthma/symptoms-causes/syc-20369653)
+
 <p align="center">
 <img width="301" alt="Asma" src="https://github.com/user-attachments/assets/89fe5e7e-626e-4c6b-9599-e4fb44e646cb">
 </p>
