@@ -30,6 +30,6 @@ Descripción de las Enfermedades, su Impacto en los Estudiantes y Estrategias de
 
 ## Recursos
 
-- [IPN. La inclusion de los estudiantes con discapacidad.](https://www.ipn.mx/assets/files/innovacion/docs/Innovacion-Educativa-79/La-inclusion-de-los-estudiantes-con-discapacidad-en-dos-universidades.pdf)
-- [CNDH. Ley General para la Inclusión de las Personas con Discapacidad](http://appweb.cndh.org.mx/biblioteca/archivos/pdfs/66_Ley_General_Discapacidad.pdf)
-- [Ley General para la Inclusión de las Personas con Discapacidad](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf)
+- **[IPN. La inclusion de los estudiantes con discapacidad.](https://www.ipn.mx/assets/files/innovacion/docs/Innovacion-Educativa-79/La-inclusion-de-los-estudiantes-con-discapacidad-en-dos-universidades.pdf)**
+- **[CNDH. Ley General para la Inclusión de las Personas con Discapacidad](http://appweb.cndh.org.mx/biblioteca/archivos/pdfs/66_Ley_General_Discapacidad.pdf)**
+- **[Ley General para la Inclusión de las Personas con Discapacidad](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf)**
