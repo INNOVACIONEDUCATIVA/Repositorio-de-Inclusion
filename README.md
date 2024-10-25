@@ -21,4 +21,6 @@ Con este repositorio, esperamos contribuir a una mayor **conciencia social**, el
 - **[Enfermedades Neurológicas](.Enfermedades/Neurologicas.md)**: Incluye cómo la esclerosis múltiple, el autismo, entre otros, impactan a los estudiantes.
 - **[Trastornos de Salud Mental](.Enfermedades/Salud_Mental.md)**: Aborda condiciones como la ansiedad y la depresión, con recomendaciones para crear un entorno más inclusivo.
 
+## Video: Cápsula de inclusión
+
 [![Alt text](https://img.youtube.com/vi/uxlXGsOeY3g/0.jpg)](https://www.youtube.com/watch?v=uxlXGsOeY3g)
