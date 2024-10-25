@@ -14,6 +14,7 @@ El asma puede afectar a los estudiantes al interferir con su rendimiento académ
 
 **Recursos**
 - **[Asma - Síntomas y causas](https://www.mayoclinic.org/es/diseases-conditions/asthma/symptoms-causes/syc-20369653)**
+- **[Educación en el asma bronquial](https://www.neumosur.net/files/ebooks/EB02-24_asma3.pdf)**
 
 <p align="center">
 <img width="301" alt="Asma" src="https://github.com/user-attachments/assets/89fe5e7e-626e-4c6b-9599-e4fb44e646cb">
@@ -33,6 +34,10 @@ El cáncer impacta a los estudiantes al causar fatiga y dificultades académicas
 - Proporcionar materiales de estudio en línea que los estudiantes puedan acceder en cualquier momento, permitiéndoles aprender a su propio ritmo.
 - Trabajar con el estudiante para crear un plan de estudios adaptado a sus necesidades, considerando su estado de salud y los tratamientos médicos.
 
+**Recursos**
+- **[¿Qué es el cáncer?](https://www.cancer.gov/espanol/cancer/naturaleza/que-es)**
+- **[Guía para Adolescentes y Adultos Jóvenes (AYA): apoyo para estudiantes universitarios y de posgrado con cáncer](https://www.mskcc.org/es/cancer-care/patient-education/guide-adolescents-and-young-adults-ayas-support-college-and-graduate-students)**
+
 <p align="center">
 <img width="295" alt="Cancer" src="https://github.com/user-attachments/assets/599edc1c-5b04-414f-91d4-263b4e2a09d9">
 </p>
@@ -50,6 +55,10 @@ La diabetes afecta a los estudiantes al requerir un control constante de la gluc
 - Permitir a los estudiantes ajustar sus horarios de clases y entregas si necesitan atención médica o tiempo para manejar su condición.
 - Facilitar pausas breves durante la clase para que los estudiantes puedan medir sus niveles de glucosa o comer algo si es necesario.
 - Proveer recursos digitales para que los estudiantes puedan acceder fácilmente a la información si se ausentan por motivos de salud.
+
+**Recursos**
+- **[Diabetes](https://www.who.int/es/news-room/fact-sheets/detail/diabetes)**
+- **[Educación en Diabetes](https://www.elsevier.es/es-revista-revista-medica-clinica-las-condes-202-articulo-educacion-en-diabetes-S0716864016300165)**
 
 <p align="center">
 <img width="336" alt="Diabetes" src="https://github.com/user-attachments/assets/8b15fc64-4794-424e-b0e0-21eee154b155">
@@ -70,6 +79,10 @@ La hipoacusia afecta a estudiantes universitarios al limitar su participación e
 - Proporcionar materiales de lectura, videos con subtítulos y presentaciones visuales que incluyan gráficos y diagramas.
 - Usar gestos, expresiones faciales y recursos visuales para complementar la comunicación verbal.
 -  Establecer un ambiente donde los estudiantes se sientan cómodos haciendo preguntas y participando en discusiones
+
+**Recursos**
+- **[Qué es la hipoacusia.](https://www.audika.es/blog-de-la-audicion/que-es-la-hipoacusia)**
+- **[Guía de estrategias y orientaciones en el aula y propuesta de intervención](https://reunir.unir.net/bitstream/handle/123456789/2874/MariaTeresa_Moreno_Forteza.pdf)**
 
 <p align="center">
 <img width="265" alt="Hipoacusia" src="https://github.com/user-attachments/assets/c22fe945-d320-4b8f-8925-e69aca8e0baf">
